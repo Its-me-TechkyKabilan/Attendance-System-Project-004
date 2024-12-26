@@ -88,8 +88,3 @@ streamlit run [app.py] [ARGUMENTS)
 - This project is supported by [Silent-Face-Anti-Spoofing] belongs to [minivision technology].Special thanks to Minivision for providing the anti-spoofing models used in this test. 
 - (https://github.com/timesler/facenet-pytorch.git) Face Recognition using Pytorch by timesler
 - Pytorch model weights were initialized using parameters ported from [David Sandberg’s tensorflow facenet repo]
-
-
-# Contributors
-- Ayu Purnama Virgiana (210040171)
-- I Komang Adisaputra Gita (210040017)
